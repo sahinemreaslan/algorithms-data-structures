@@ -10,10 +10,10 @@ D) Tüm grafı Depth First Search Algoritmasına göre dolaşarak, dolaşma sır
 yazdırınız. Ayrıca ulaşma (d dizisi) ve işleme (f dizisi) zamanlarını da ekrana yazdırınız.<br>
 Örnek Text Dosya Formatı: Her bir ifade boşluk karakteri ile ayrılmıştır. Ödev kontrol hocası
 farklı text dosyalarda da denemeler yapabilecektir.</p>
-<p><center>
+<div align="center"><p>
 0 1 0 1 0<br>
 1 0 1 0 0<br>
 0 0 0 0 0<br>
 0 0 1 0 1<br>
 0 0 0 1 0<br>
-</center></p>
+</p> </div>
