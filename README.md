@@ -1,5 +1,5 @@
 # algorithms-data-structures
-<h1>Algorithms_Exercise_2 [TR]</h1>
+<h2>Algorithms_Exercise_2 [TR]</h2>
 <p>
 A) Aşağıda formatı verilmiş olan Text dosyayı kullanarak Komşuluk Matris (Adjaceny
 Matrix) yöntemiyle grafı oluşturunuz.<br>
