@@ -17,3 +17,9 @@ farklı text dosyalarda da denemeler yapabilecektir.</p>
 0 0 1 0 1<br>
 0 0 0 1 0<br>
 </p> </div>
+
+
+<h2>Hash_data_structures _exercise_1 [TR]</h2>
+<br>I will write the content</br>
+<h2>Hash_data_structures _exercise_2 [TR]</h2>
+<br>I will write the content</br>
