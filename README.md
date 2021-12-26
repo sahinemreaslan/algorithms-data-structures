@@ -44,5 +44,6 @@ hash tablosunda arayacak ve kayıtların kaç adımda bulunduğunu geriye dönd�
 bulunmazsa -1 geriye dönecektir)<br>
 b) Her iki uygulama içinde yazacağınız iki ayrı listeleme fonksiyonu hash tablosunun içeriğini
 listeleyecektir.</p>
-![image](https://user-images.githubusercontent.com/43322788/147419079-aaad4714-7cc9-40f1-b209-4732b1163c42.png)
+<div align="center"><img src="https://user-images.githubusercontent.com/43322788/147419079-aaad4714-7cc9-40f1-b209-4732b1163c42.png" alt="hashing" width="500" height="600"></div>
+
 
